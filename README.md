@@ -33,7 +33,18 @@ If any questions regarding starting the application, feel free to send me an ema
 
 Asteroid List page: 
 
+By default it pickups today's date to pick the week, but you can change the date in date picker. 
+
+The data is cached, so if you are loading the same data again it would be much quicker. 
+
+
+
 ![image](https://user-images.githubusercontent.com/31499924/226210789-f1d7a1f2-b865-4a0c-abaf-95c10d904d0e.png)
+
+
+Details page: 
+
+![image](https://user-images.githubusercontent.com/31499924/226210894-00704aac-ce59-4924-b05d-37f95f3a1aed.png)
 
 
 
