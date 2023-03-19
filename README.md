@@ -31,4 +31,9 @@ The frontend client is running on localhost:3000, and backend server on localhos
 If any questions regarding starting the application, feel free to send me an email to saperthans@gmail.com
 
 
+Asteroid List page: 
+
+![image](https://user-images.githubusercontent.com/31499924/226210789-f1d7a1f2-b865-4a0c-abaf-95c10d904d0e.png)
+
+
 
